@@ -41,11 +41,11 @@
 </tr>
 <tr>
 <td>Demoversion</td>
-<td><a href="http://demos.fun4tux.ch/gorky17/">Demo for Gorky 17</a>, <a href="http://updates.fun4tux.ch/gorky17-demo/">Updates for the Demo</a></td>
+<td><a href="http://demofiles.linuxgamepublishing.com/gorky17/">Demo for Gorky 17</a>, <a href="http://updatefiles.linuxgamepublishing.com/gorky17-demo/">Updates for the Demo</a></td>
 </tr>
 <tr>
 <td>Updates</td>
-<td><a href="http://updates.fun4tux.ch/gorky17/">Updates for Gorky 17</a></td>
+<td><a href="http://updatefiles.linuxgamepublishing.com/gorky17/">Updates for Gorky 17</a></td>
 </tr>
 <tr>
 <td>Condition</td>
