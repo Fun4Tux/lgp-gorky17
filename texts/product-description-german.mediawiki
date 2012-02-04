@@ -1,0 +1,105 @@
+==Preview==
+<p>Wer das Kommando in der geheimen NATO-Mission &uuml;bernehmen und das R&auml;tsel um die monstr&ouml;sen Mutanten in der russischen Milit&auml;rkolonie l&uuml;ften will, braucht starke Nerven. Die packende Story mit realistischen 3D-K&auml;mpfen im Grenzbereich zwischen Science Fiction und Horror ist ein echter Geheimtipp!</p>
+
+==Text==
+<p><strong><strong><strong>Das Spiel</strong></strong><br /></strong></p>
+<p>November 2008:</p>
+<p>Die Geheimdienste der Nato-Staaten berichten, das russische Milit&auml;r habe Gorky 17, eine seiner geheimen St&auml;dte dem Erdboden gleichgemacht. Die Gr&uuml;nde daf&uuml;r kennt niemand. Gorky 17 war die exakte Nachbildung einer typischen US-Kleinstadt und wurde als Trainingslager zur Agentenausbildung genutzt. Dar&uuml;ber hinaus war Gorky 17 auch ein Hochsicherheitsgel&auml;nde f&uuml;r milit&auml;rische Experimente. <br /><br />Herbst 2009:</p>
+<p>Die Nato &uuml;bernimmt einen ehemals russischen St&uuml;tzpunkt in Polen. Sp&uuml;rtrupps entdecken in der verw&uuml;steten Stadt einen riesigen Laborkomplex. Irgendwas scheint dort nicht mit rechten Dingen zuzugehen. Zun&auml;chst wirkt die Stadt v&ouml;llig ausgestorben - aber dann werden im Zentrum der Stadt Horden von monstr&ouml;sen Mutanten gesichtet - halb Mensch, halb Tier. Das Ereignis erregt sofort die Aufmerksamkeit der Medien - dadurch ist es unm&ouml;glich geworden die Stadt einfach zu zerst&ouml;ren. Das Milit&auml;r riegelt den gesamten Komplex hermetisch ab. Ein Spezialisten-Team soll in das Gebiet vordringen und die Vorg&auml;nge erforschen. <br /><br />Was werden sie herausfinden? Und vor allem wer wird diese Mission &uuml;berleben? Begeben Sie sich in die H&ouml;lle des unvorstellbaren Grauens...<br /><br /><strong>Features</strong></p>
+<ul>
+<li>Fesselnde Story: Science Fiction gepaart mit Horror</li>
+</ul>
+<ul>
+<li>3D-Grafik mit spektakul&auml;ren Effekten </li>
+</ul>
+<ul>
+<li>Taktische K&auml;mpfe auf hohem Niveau </li>
+</ul>
+<ul>
+<li>Stimmungsgeladene Soundtracks </li>
+</ul>
+<ul>
+<li>Auch ohne 3D-Karte spielbar</li>
+</ul>
+<p>&nbsp;</p>
+<ul>
+</ul>
+<hr />
+<p><strong>Trailer</strong></p>
+<p><video width="515" controls="true"> <source src="http://videos.fun4tux.ch/gorky17-trailer-en.ogg"></source> Ihr Browser unterst&uuml;tzt das video-Tag nicht! Dies ist eine gute Gelegenheit, einen brauchbaren <a href="http://www.mozilla-europe.org/de/firefox/">Browser zu besorgen</a>!</video></p>
+<hr />
+<p><strong><strong><strong>Allgemeine Informationen zum Spiel</strong></strong><br /></strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Altersfreigabe</td>
+<td>16+</td>
+</tr>
+<tr>
+<td>Sprache Verpackung<br /></td>
+<td>Englisch</td>
+</tr>
+<tr>
+<td>Sprache Handbuch<br /></td>
+<td>Englisch<br /></td>
+</tr>
+<tr>
+<td>Sprache Spiel<br /></td>
+<td>Englisch, Deutsch, Spanisch, Franz&ouml;sisch (nur Text)</td>
+</tr>
+<tr>
+<td>Demoversion</td>
+<td><a href="http://demos.fun4tux.ch/gorky17/">Demo f&uuml;r Gorky 17</a>, <a href="http://updates.fun4tux.ch/gorky17-demo/">Updates f&uuml;r the Demo</a></td>
+</tr>
+<tr>
+<td>Updates</td>
+<td><a href="http://updates.fun4tux.ch/gorky17/">Updates f&uuml;r Gorky 17</a></td>
+</tr>
+<tr>
+<td>Zustand<br /></td>
+<td>fabrikneu</td>
+</tr>
+<tr>
+<td>Lieferumfang<br /></td>
+<td>
+<p>CD-Rom und Anleitung in DVD-H&uuml;lle (keine Folie)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<p><strong><strong><strong>Minimale Systemanforderungen</strong></strong><br /></strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Prozessor<br /></td>
+<td>300 MHz x86 Prozessor</td>
+</tr>
+<tr>
+<td>Grafikkarte<br /></td>
+<td>Grafikkarte mit 4 MB Ram<br /></td>
+</tr>
+<tr>
+<td>Hauptspeicher<br /></td>
+<td>64 MB</td>
+</tr>
+<tr>
+<td>Festplattenspeicher<br /></td>
+<td>500 MB</td>
+</tr>
+<tr>
+<td>Soundkarte</td>
+<td>OSS kompatibel<br /></td>
+</tr>
+<tr>
+<td>Laufwerk<br /></td>
+<td>2x CD-Rom</td>
+</tr>
+<tr>
+<td>Betriebssystem<br /></td>
+<td>
+<p>GNU/Linux x86 System (x64/amd64 Systeme funktionieren nur mit einem 32 bit Emulationslayer), 2.2.x oder neuerer Linuxkernel, glibc-2.1+, X-Windows (XFree86 3.3.x oder neuer)</p>
+</td>
+</tr>
+</tbody>
+</table>

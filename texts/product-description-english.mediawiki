@@ -1,0 +1,97 @@
+==Preview==
+<p>Gorky 17 is a horror conspiracy game mixing elements of strategy and RPG gameplay.</p>
+
+==Text==
+<p><strong>About the Game</strong></p>
+<p>The main hero in Gorky 17 is Cole Sullivan, a fascinatingly complex character. Play for a while and you&rsquo;ll feel yourself taking on his traits and sharing his emotions, above all his very personal feelings towards the other characters and their environment. How did we achieve this? Simple ... by combining the pure excitement of battle with the element of surprise and exploration found in adventures.<br /><br />In addition to fighting turn-based battles against realistic monsters, you can also shoot off locks, pick up newspapers, converse with other characters and even solve some tricky puzzles! This, in a nutshell, is the concept behind Gorky 17 &ndash; combine the best of the genres to create the best game possible. Here&rsquo;s a little nibble ... you&rsquo;re engaged in a heavy battle against a deformed hybrid. He&rsquo;s getting the upper hand, but is down to his last shot. Suddenly he starts begging for his life, pleading with you to show mercy. He offers to reveal the location of a rebel ammunition dump down in the sewers &ndash; he even gives you the key! You agree and follow him. But ... it&rsquo;s a trap! Suddenly four giant monsters attack from all sides. Tricky eh?</p>
+<p>&nbsp;</p>
+<p><strong>Features</strong></p>
+<ul>
+<li>Combines the best of three genres: (I) exploration and interaction with your environment (adventure), (II) character development (RPG), (III) engrossing battles with a wide variety of enemies (strategy)</li>
+<li>Adventure elements are smoothly woven into the strategic battles, to create an exciting world and get you intensely involved in the scheme of things. Here you&rsquo;re not just an observer - you&rsquo;re truly part of the action!</li>
+<li>The horror/s-f story, along with the in-game events and spectacular Softimage-created FMV cut scenes, is central to the game. The plot is realistic and rich, with riveting twists and turns that will keep you glued to your chair</li>
+<li>The user interface is powerful and packed with features, yet intuitive and easy to learn</li>
+<li>An excellent soundtrack lends the perfect atmosphere to each scene</li>
+<li>With countless subtle touches, little "secrets" and random events the game stays suspenseful and fun - no matter how often you play<br /><br /><br /></li>
+</ul>
+<hr />
+<p><strong>Trailer</strong></p>
+<p></p>
+<p><video width="515" controls="true"> <source src="http://videos.fun4tux.ch/gorky17-trailer-en.ogg"></source> Your browser does not support the video tag! Go and get a <a href="http://www.mozilla-europe.org/de/firefox/">good one</a>!</video></p>
+<p></p>
+<hr />
+<p><strong>General information</strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Age rating<br /></td>
+<td>16+</td>
+</tr>
+<tr>
+<td>Language of the dvd-box</td>
+<td>English</td>
+</tr>
+<tr>
+<td>Language of the manual</td>
+<td>English<br /></td>
+</tr>
+<tr>
+<td>Language of the game</td>
+<td>English, German, Spanish, French (text only)</td>
+</tr>
+<tr>
+<td>Demoversion</td>
+<td><a href="http://demos.fun4tux.ch/gorky17/">Demo for Gorky 17</a>, <a href="http://updates.fun4tux.ch/gorky17-demo/">Updates for the Demo</a></td>
+</tr>
+<tr>
+<td>Updates</td>
+<td><a href="http://updates.fun4tux.ch/gorky17/">Updates for Gorky 17</a></td>
+</tr>
+<tr>
+<td>Condition</td>
+<td>Brand new</td>
+</tr>
+<tr>
+<td>Content</td>
+<td>CD-Rom and manual in a DVD box (no packaging foil)</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<hr />
+<p><strong>Minimum Requirements<br /></strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Processor<br /></td>
+<td>300 MHz x86 Processor</td>
+</tr>
+<tr>
+<td>Graphics Card<br /></td>
+<td>Graphics card with 4 MB video memory<br /></td>
+</tr>
+<tr>
+<td>Memory</td>
+<td>64 MB</td>
+</tr>
+<tr>
+<td>Disc Space<br /></td>
+<td>500 MB</td>
+</tr>
+<tr>
+<td>Sound Card</td>
+<td>OSS compatible</td>
+</tr>
+<tr>
+<td>Optical Drive</td>
+<td>2x CD-Rom</td>
+</tr>
+<tr>
+<td>Operating System<br /></td>
+<td>
+<p>GNU/Linux x86 system (x64/amd64 systems through 32 bit emulation layer only), 2.2.x or better Linux kernel with glibc-2.1 or later and X-Windows (XFree86 3.3.x or later)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
